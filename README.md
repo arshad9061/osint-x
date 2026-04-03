@@ -51,7 +51,7 @@ reconnaissance workflows used in ethical penetration testing and threat intellig
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/osint-x.git
+git clone https://github.com/arshad9061/osint-x.git
 cd osint-x
 
 # 2. (Recommended) Create a virtual environment
